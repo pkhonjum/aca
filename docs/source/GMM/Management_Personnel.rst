@@ -6,7 +6,7 @@ Accountable Manager/Chief Executive Officer (CEO)
 
 Chief Executive Officer (CEO) reports directly to the Board of director of the company and has duties and responsible to:
 
-a) Management overall of business and control direction of business to intend successful of business by follow policies including investment ,capital and control expenses
+a) Management overall of business and control direction of business to intend successful of business by follow policies including investment, capital and control expenses
 
 b) Development marketing plan for serve company business policies
 
@@ -78,7 +78,7 @@ Qualification:
 
 The Maintenance Manager shall have a minimum of 5 years experience in aircraft maintenance and possess a valid AME license issued by DCA Thailand with type endorsements for at least one of the aircraft types operated by the Company. In addition, the Maintenance Manager shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals.
 
-Responsibility:
+Responsibilities:
 
 a) Establish maintenance procedures for maintenance activities under AC Aviation responsibility, as required for safety and standardization.
 

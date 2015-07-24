@@ -1,7 +1,7 @@
 Accountable Manager's Statement
 -----------------------------
 
-This General Maintenance Manual (GMM) and any associated referenced manuals define the organization and procedures upon which the Department of Civil Aviation (DCA) approval of AC Aviation Co., Ltd, under Thai Aviation Air Laws, DCA Regulation and announcements.
+This General Maintenance Manual (GMM) and any associated referenced manuals define the organization and procedures upon which the Department of Civil Aviation (DCA) approval of AC Aviation Co., Ltd., under Thai Aviation Air Laws, DCA Regulation and announcements.
 
 These procedures are approved by the undersigned and must be complied with, as applicable, in order to ensure that all the continuing airworthiness activities including maintenance for aircraft managed by AC Aviation is carried out on time and to an approved standard.
 
