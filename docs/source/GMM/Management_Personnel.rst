@@ -217,7 +217,7 @@ c) Revise maintenance requirement, as required and in compliance with authority 
 
 d) Co-ordinate with aircraft, engine and component manufactures to ensure that technical support is currently received.
 
-e) Review Airworthiness Directives (AD's), Service Bulletins (SB's) or r e l e v a n t  p u b l i c a t i o n s and i s s u e  i n c o r p o r a t i o n of modification/inspection, as required.
+e) Review Airworthiness Directives (AD's), Service Bulletins (SB's) or relevant publications and issues incorporation of modification/inspection, as required.
 
 f) To be added.
 
