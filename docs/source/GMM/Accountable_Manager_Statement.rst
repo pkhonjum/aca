@@ -1,4 +1,4 @@
-Accountable Manager Statement
+Accountable Manager's Statement
 -----------------------------
 
 This General Maintenance Manual (GMM) and any associated referenced manuals define the organization and procedures upon which the Department of Civil Aviation (DCA) approval of AC Aviation Co., Ltd, under Thai Aviation Air Laws, DCA Regulation and announcements.
@@ -20,8 +20,7 @@ g) Amount of aircraft type.
 It is understood that the DCA will approve this organization whilst the DCA is satisfied that the procedures are being followed. It is further understood that the DCA reserves the right to suspend, vary or revoke the continuing airworthiness management approval of the organization, as applicable, if the DCA has evidence that procedures are not followed and the standards not upheld.
 
 
-Mr. Steve Lavesque
+Mr. Stephen Lavesque
 
 General Manager
-
 AC Aviation Company Limited
