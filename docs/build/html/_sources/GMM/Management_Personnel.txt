@@ -1,7 +1,7 @@
 Management Personnel
 --------------------
 
-Accoiuntable Manager/Chief Executive Officer (CEO)
+Accountable Manager/Chief Executive Officer (CEO)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chief Executive Officer (CEO) reports directly to the Board of director of the company and has duties and responsible to:
@@ -14,7 +14,7 @@ c) Plan, organize and control over activities of aviation business development a
 
 d) Ensure that the Company’s aircraft operation is safe and legally compliant and is in conformance to the regulatory framework governed by the Air Operator Certificate issued by the Thailand Department of Civil Aviation.
 
-   e) To be added.
+e) To be added.
 
 f) Ensure the implementation of effective Flight Safety programs which are periodically evaluated in terms of its effectively and adequacy.
 g) Provide vision for growth and business strategy in the field of aviation industry.

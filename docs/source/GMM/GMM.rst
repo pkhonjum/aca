@@ -4,7 +4,7 @@ General Maintenance Manual
 AC Aviation Company Limited
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    Accountable_Manager_Statement
    List_of_Effective_Pages
