@@ -27,9 +27,5 @@ General Manager
 
 AC Aviation Company Limited
 
-Indices and tables
-==================
-
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
